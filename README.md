@@ -1,4 +1,4 @@
-### Hi there, I'm George - aka [Giuco-senpai45][website] 👋
+### Hi there, I'm George - aka [Giuco-senpai45][dummy] 👋
 
 ## I'm a Student currently having fun getting into the programming world by learning a bit of everything!
 
