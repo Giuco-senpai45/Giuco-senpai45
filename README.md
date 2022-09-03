@@ -3,7 +3,16 @@
 ## I'm a Student currently having fun getting into the programming world by learning a bit of everything!
 
 <br/>
+
 - 🎓Currently studying Computer Science at UBB Cluj 💻
+- I'm really keen on learning new stuff and usually don't back down from a challenges
+<details>
+    <summary>Fun facts about me 😁:</summary>
+    <ul>
+    <li>I love drawing 🎨 and singing 🎤</li>
+    <li>I play basketball 🏀</li>
+    <li><a href="https://myanimelist.net/profile/Giuco"><i>I also watch a lot of anime (shh)</i></a></li>
+</details>
 
 <br/>
 
@@ -32,8 +41,10 @@
   <a style="padding:10px"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
   <p> Usually making API's with:</p>
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-  <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+  <div align="left">
+    <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+  </div>
 </p>
 
 #
