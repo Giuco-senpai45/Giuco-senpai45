@@ -37,7 +37,10 @@
   <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <!-- <a style="padding:10px"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  -->
-  <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> -->
+  <a style="padding:10px"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
+  <a style="padding:10px"> <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/0432c913-c466-4470-b0e4-d480ed887160.svg" alt="sveltekit" width="80" height="40"/>
+  <a style="padding:10px"> <img src="https://vectorwiki.com/images/SIGDY__prisma.svg" alt="prisma" width="40" height="40"/>
+  </a>
   <a style="padding:10px"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
   <p> Usually making API's with:</p>
@@ -59,7 +62,6 @@
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <!-- <a style="padding:10px"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> -->
-     <!-- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  -->
 </p>
 
 <!--#
