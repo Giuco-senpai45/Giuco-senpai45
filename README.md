@@ -1,11 +1,9 @@
 ### Hi there, I'm George - aka [Giuco-senpai45][dummy] 👋
 
-## I'm a Student currently having fun getting into the programming world by learning a bit of everything!
-
 <br/>
 
-- 🎓Currently studying Computer Science at UBB Cluj 💻
-- I'm really keen on learning new stuff and usually don't back down from a challenges
+- 🎓Currently in a Masters program studying Distributed Systems at UBB Cluj 💻
+- I'm really keen on learning new stuff and usually don't back down from challenges
 <details>
     <summary>Fun facts about me 😁:</summary>
     <ul>
@@ -34,15 +32,14 @@
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <!-- <a style="padding:10px"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  -->
   <a style="padding:10px"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
   <a style="padding:10px"> <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/0432c913-c466-4470-b0e4-d480ed887160.svg" alt="sveltekit" width="80" height="40"/>
   <a style="padding:10px"> <img src="https://vectorwiki.com/images/SIGDY__prisma.svg" alt="prisma" width="40" height="40"/>
   </a>
   <a style="padding:10px"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
+
   <h3> Usually making API's with:</h3>
   <div align="left">
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
@@ -51,9 +48,17 @@
   </div>
 </p>
 
-#
+### <b>Devops :</b>
 
-### <b>Some general purpose languages:</b>
+<p align="left"> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+
+  <a>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+</p>
+
+### <b>Languages used on a regular basis throughout my career :</b>
 
 <p align="left">
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -81,7 +86,6 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 -->
-
 
 #
 
