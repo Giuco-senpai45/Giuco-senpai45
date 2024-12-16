@@ -1,4 +1,4 @@
-### Hi there, I'm George - aka [Giuco-senpai45][dummy] 👋
+### Hi there, I'm Daniel - aka [Giuco-senpai45][dummy] 👋
 
 <br/>
 
