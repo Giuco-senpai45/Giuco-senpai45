@@ -1,12 +1,13 @@
-### Hi there, I'm George - aka [Giuco-senpai45][dummy] 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47F7BA&width=680&lines=Nondeterministically+breaking+every+pattern.;%E0%B8%85%5E%3E%E2%A9%8A%3C%5E%E0%B8%85+Absolute+Academic+Machine+%E2%89%BD%5E%E2%80%A2%E2%A9%8A%E2%80%A2%5E%E2%89%BC;Honestly+just+vibin'+my+way+through+this%2C+professionally." alt="Typing SVG" /></a>
+
+### Hi there, I'm Daniel - aka [Giuco-senpai45][dummy] 👋
 
 <br/>
 
-- 🎓Currently in a Masters program studying Distributed Systems at UBB Cluj 💻
+- 🎓Currently pursuing a PhD in applied medical Artificial Intelligence at UBB Cluj 💻
 - I'm really keen on learning new stuff and usually don't back down from challenges
 <details>
     <summary>Fun facts about me 😁:</summary>
-    <ul>
     <li>I love drawing 🎨 and singing 🎤</li>
     <li>I play basketball 🏀</li>
     <li><a href="https://myanimelist.net/profile/Giuco"><i>I also watch a lot of anime (shh)</i></a></li>
@@ -41,6 +42,8 @@
   </a>
   <a style="padding:10px"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
   <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="tauri" width="60" height="60"/> </a>
+  <a style="padding:10px"> <img src="https://wails.io/img/wails-logo-horizontal-dark.svg" alt="wails" width="180" height="60"/> </a>
+  
 
   <h3> Actively using right now for my backends</h3>
   <div align="left">
@@ -86,9 +89,8 @@
     <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="60" height="60"/> </a>
 </p>
 
-<!--#
 
-### <b>AI/ML <i> (yeah I'm that guy) </i></b>
+### <b>Deep learning <i> (currently researching facial image segmentation for accurate facial 3D reconstructions) </i></b>
 
 <p align="left">
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/> </a>
@@ -99,7 +101,6 @@
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
 </p>
--->
 
 
 ### <b>Other:</b>
