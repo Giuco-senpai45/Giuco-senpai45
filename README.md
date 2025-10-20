@@ -44,7 +44,7 @@
   <h3> Actively using right now for my backends</h3>
   <div align="left">
     <a style="padding:10px" href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/> </a>
-    <a style="padding:10px" href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="60" height="60"/> </a>
+    <a style="padding:10px" href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="rust" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
   </div>
 </p>
