@@ -129,5 +129,5 @@
 </div>
 
 [twitter]: https://twitter.com/Giuco8
-[linkedin]: https://linkedin.com/in/ardelean-george/
+[linkedin]: https://linkedin.com/in/ardelean-daniel/
 [dummy]: https://github.com/Giuco-senpai45
