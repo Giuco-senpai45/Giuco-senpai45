@@ -4,13 +4,13 @@
 
 <br/>
 
-- 🎓Currently pursuing a PhD in applied medical Artificial Intelligence at UBB Cluj 💻
+- 🎓Currently pursuing a PhD in applied medical Artificial Intelligence at BBU Cluj 💻
 - I'm really keen on learning new stuff and usually don't back down from challenges
 <details>
     <summary>Fun facts about me 😁:</summary>
-    <li>I love drawing 🎨 and singing 🎤</li>
-    <li>I play basketball 🏀</li>
-    <li><a href="https://myanimelist.net/profile/Giuco"><i>I also watch a lot of anime (shh)</i></a></li>
+    <li>I love drawing 🎨 and music 🎤</li>
+    <li>and basketball 🏀</li>
+    <!--<li><a href="https://myanimelist.net/profile/Giuco"><i>I also watch a lot of anime (shh)</i></a></li>-->
 </details>
 
 <br/>
