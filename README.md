@@ -121,11 +121,8 @@
 <br />
 <br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giuco-senpai45&layout=compact)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NRDaniel&layout=compact)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuco-senpai45)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=NRDaniel)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Giuco-senpai45&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=NRDaniel&theme=github)
 
 <div display="flex">
   <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=giuco-senpai45&" alt="giuco-senpai45" />
