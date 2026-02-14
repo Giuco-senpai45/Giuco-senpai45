@@ -121,12 +121,16 @@
 <br />
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuco-senpai45&show_icons=true&locale=en&layout=compact" alt="giuco-senpai45" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giuco-senpai45&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NRDaniel&layout=compact)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Giuco-senpai45)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=NRDaniel)
 
 <div display="flex">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=giuco-senpai45&show_icons=true&locale=en" alt="giuco-senpai45" />
   <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=giuco-senpai45&" alt="giuco-senpai45" />
-</div>
+  <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=NRDaniel&" alt="NRDaniel" />
+</div> 
 
 [twitter]: https://twitter.com/Giuco8
 [linkedin]: https://linkedin.com/in/ardelean-daniel/
