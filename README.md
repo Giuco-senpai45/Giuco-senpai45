@@ -41,12 +41,13 @@
 </p>
 
 
-
+<p align="left">
   <h3> Actively using right now for my backends</h3>
   <div align="left">
     <a style="padding:10px" href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/> </a>
-    <a style="padding:10px" href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="rust" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
+    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/> </a>
+    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="60" height="60"/> </a>
   </div>
 </p>
 
@@ -58,6 +59,8 @@
     </a>
     <a style="padding:10px">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/>
+    </a>
+    <a style="padding:10px"> <img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/eclipse-mosquitto/live/logo-1763770300796.png" alt="mosquitto" width="60" height="60"/>
     </a>
     <a style="padding:10px" href="https://kafka.apache.org/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/>
     </a>
@@ -78,11 +81,11 @@
 <p align="left">
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
+    <a style="padding:10px" href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="rust" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="60" height="60"/> </a>
-    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/> </a>
-    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="60" height="60"/> </a>
+    <a style="padding:10px" href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="rust" width="60" height="60"/> </a>
     <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="60" height="60"/> </a>
 </p>
 
@@ -121,12 +124,8 @@
 <br />
 <br />
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Giuco-senpai45&theme=github)
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=NRDaniel&theme=github)
-
 <div display="flex">
   <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=giuco-senpai45&" alt="giuco-senpai45" />
-  <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=NRDaniel&" alt="NRDaniel" />
 </div> 
 
 [twitter]: https://twitter.com/Giuco8
