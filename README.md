@@ -45,6 +45,7 @@
   <h3> Actively using right now for my backends</h3>
   <div align="left">
     <a style="padding:10px" href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/> </a>
+    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="60" height="60"/> </a>
@@ -64,7 +65,7 @@
     </a>
     <a style="padding:10px" href="https://kafka.apache.org/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/>
     </a>
-    <a style="padding:10px" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+    <!--<a style="padding:10px" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>-->
     </a>
     <a style="padding:10px" href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/>
     </a>
@@ -80,7 +81,6 @@
 
 <p align="left">
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
-    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
     <a style="padding:10px" href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="rust" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a>
     <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
@@ -100,8 +100,6 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/> </a>
   <a style="padding:10px"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="60" height="60"/>
   <a style="padding:10px"> <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/0432c913-c466-4470-b0e4-d480ed887160.svg" alt="sveltekit" width="80" height="60"/>
-  <a style="padding:10px"> <img src="https://vectorwiki.com/images/SIGDY__prisma.svg" alt="prisma" width="60" height="60"/>
-  </a>
   <a style="padding:10px"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
   <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="tauri" width="60" height="60"/> </a>
   <a style="padding:10px"> <img src="https://wails.io/img/wails-logo-horizontal-dark.svg" alt="wails" width="180" height="60"/> </a>
