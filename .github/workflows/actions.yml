@@ -11,7 +11,7 @@ jobs:
     name: Update readme with metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: Giuco-senpai45/Giuco-senpai45@master
+      - uses: athul/waka-readme@master
         with:
-          WAKA_API: ${{ secrets.WAKA_API }}
+          WAKATIME_API_KEY: ${{ secrets.WAKA_API }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
