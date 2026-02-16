@@ -1,0 +1,17 @@
+name: Work Stats
+
+on:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update readme with metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Giuco-senpai45/Giuco-senpai45@master
+        with:
+          WAKA_API: ${{ secrets.WAKA_API }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
