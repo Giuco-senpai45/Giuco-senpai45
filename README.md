@@ -124,7 +124,16 @@
 
 <div display="flex">
    <!--START_SECTION:waka-->
-   <!--END_SECTION:waka-->
+
+```txt
+Dart                       2 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   32.73 %
+Markdown                   1 hr 37 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+C++                        1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Vue.js                     40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Bash                       39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+```
+
+<!--END_SECTION:waka-->
   <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=giuco-senpai45&" alt="giuco-senpai45" />
 </div> 
 
