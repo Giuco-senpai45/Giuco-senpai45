@@ -123,6 +123,8 @@
 <br />
 
 <div display="flex">
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
   <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=giuco-senpai45&" alt="giuco-senpai45" />
 </div> 
 
