@@ -30,51 +30,20 @@
 ### <b>Deep learning <i> (currently researching facial image segmentation for accurate facial 3D reconstructions) </i></b>
 
 <p align="left">
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/> </a>
-  <a href="https://pola.rs/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/83768144?s=200&v=4" alt="polars" width="60" height="60"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/></a>&nbsp;<a href="https://pola.rs/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/83768144?s=200&v=4" alt="polars" width="60" height="60"/></a>&nbsp;<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/></a>&nbsp;<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/></a>&nbsp;<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/></a>&nbsp;<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/></a>&nbsp;<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/></a>
 </p>
 
 
+<h3> Actively using right now for my backends</h3>
+
 <p align="left">
-  <h3> Actively using right now for my backends</h3>
-  <div align="left">
-    <a style="padding:10px" href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/> </a>
-    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
-    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/> </a>
-    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="60" height="60"/> </a>
-  </div>
+<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/></a>&nbsp;<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/></a>&nbsp;<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>&nbsp;<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/></a>&nbsp;<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="60" height="60"/></a>
 </p>
 
 ### <b>For my infrastructures :</b>
 
 <p align="left">
-  <div align="left">
-    <a style="padding:10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
-    </a>
-    <a style="padding:10px">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/>
-    </a>
-    <a style="padding:10px"> <img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/eclipse-mosquitto/live/logo-1763770300796.png" alt="mosquitto" width="60" height="60"/>
-    </a>
-    <a style="padding:10px" href="https://kafka.apache.org/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/>
-    </a>
-    <!--<a style="padding:10px" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>-->
-    </a>
-    <a style="padding:10px" href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/>
-    </a>
-    <a style="padding:10px" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
-    <a style="padding:10px" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="grpc" width="60" height="60"/>
-    </a>
-    <a style="padding:10px" href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="60" height="60"/>
-    </a> 
-  </div>
+<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>&nbsp;<a><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/></a>&nbsp;<a><img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/eclipse-mosquitto/live/logo-1763770300796.png" alt="mosquitto" width="60" height="60"/></a>&nbsp;<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/></a>&nbsp;<!--<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a>&nbsp;--><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/></a>&nbsp;<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/></a>&nbsp;<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="grpc" width="60" height="60"/></a>&nbsp;<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="60" height="60"/></a>
 </p>
 
 ### <b>Other languages I'm comfortable working in :</b>
@@ -126,11 +95,11 @@
    <!--START_SECTION:waka-->
 
 ```txt
-Other                      9 hrs 23 mins         ████████▓░░░░░░░░░░░░░░░░   34.12 %
-Go                         8 hrs 43 mins         ████████░░░░░░░░░░░░░░░░░   31.72 %
-Markdown                   2 hrs 49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Ruby                       2 hrs 42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Python                     55 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Dart                       5 hrs 59 mins         ████████▓░░░░░░░░░░░░░░░░   34.99 %
+Markdown                   2 hrs 28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+C++                        2 hrs 15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+Bash                       1 hr 8 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Vue.js                     59 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
