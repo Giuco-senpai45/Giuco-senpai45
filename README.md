@@ -47,9 +47,10 @@
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60" height="60"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="60" height="60"/></td>
-<td>
+<td><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374056/rust.svg" alt="rust" width="60" height="60"/></a></td>
+<!-- <td>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/>
-</td>
+</td> -->
 </tr></table>
 
 ### <b>For my infrastructures :</b>
@@ -69,7 +70,6 @@
 
 <table><tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/></td>
-<td><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374056/rust.svg" alt="rust" width="60" height="60"/></a></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></td>
 <td><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="60" height="60"/></td>
