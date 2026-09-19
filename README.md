@@ -144,11 +144,7 @@
    <!--START_SECTION:waka-->
 
 ```txt
-HTML       58 mins               ███████▒░░░░░░░░░░░░░░░░░   28.68 %
-Ruby       57 mins               ███████░░░░░░░░░░░░░░░░░░   28.02 %
-Markdown   42 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-Python     20 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Other      15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
